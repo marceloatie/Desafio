@@ -1,0 +1,8 @@
+.btn {
+  width: 70px;
+  font-weight: bolder;
+  background-color: goldenrod;
+  border-color: darkgoldenrod;
+  margin-right: 10px;
+  margin-left: 10px;
+}

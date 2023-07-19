@@ -1,0 +1,39 @@
+.btnAlterar {
+  width: 70px;
+  font-weight: bolder;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.btnCancelar {
+  width: 70px;
+  font-weight: bolder;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.btnSalvar {
+  width: 70px;
+  font-weight: bolder;
+  background-color: darkgreen;
+  border-color: green;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.btnDeletar {
+  width: 70px;
+  font-weight: bolder;
+  background-color: darkred;
+  border-color: red;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.textAreaDisabled {
+  color: black;
+}
+
+.displayNone {
+  display: none;
+}
